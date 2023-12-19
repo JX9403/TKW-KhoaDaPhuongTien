@@ -15,6 +15,10 @@
   .header-noti {
     margin-right: 10px;
   }
+
+  .searchThree-box{
+    min-height: 250px;
+  }
 }
 
 @media screen and (max-width: 992px) {
