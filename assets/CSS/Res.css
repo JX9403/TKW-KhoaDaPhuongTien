@@ -17,7 +17,7 @@
   }
 
   .searchThree-box{
-    min-height: 250px;
+    min-height: 335px;
   }
 }
 
@@ -139,7 +139,9 @@
     width: 320px;
     right: -84px;
   }
- 
+  .searchThree-box{
+    min-height: 250px;
+  }
   .searchThree-box-title{
 
     font-size: 1.4rem;
